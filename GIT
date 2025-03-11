@@ -1,0 +1,37 @@
+Day.1
+
+mkdir aws
+  109  cd aws/
+  110  vi index.html
+  111  ll
+  112  git add .
+  113  git init
+  114  git add .
+  115  git commit -m "commit-1"
+  116  git remote add origin https://github.com/nit8ambatch/myrepo.git
+  117  git push origin master
+  118  ll
+  119  git checkout -b Dev
+  120  ll
+  121  git log
+  122  git config --global user.name "chandu"
+  123  git config --global user.email "chandu@gmail.com"
+  124  ll
+  125  touch file1 file2
+  126  ll
+  127  git status
+  128  git add .
+  129  git commit -m "new files
+  130  git commit -m "new files"
+  131  git log
+  132  git checkout master
+  133  ll
+  134  git checkout Dev
+  135  ll
+  136  git push origin Dev
+  137  https://github.com/nit8ambatch/myrepo.git
+  138  git checkout master
+  139  ll
+  140  git merge Dev
+  141  ll
+  142  git push origin master
