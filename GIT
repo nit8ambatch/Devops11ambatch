@@ -35,3 +35,10 @@ mkdir aws
   140  git merge Dev
   141  ll
   142  git push origin master
+
+Git day 2
+
+task
+create 5 files with one file index.html
+add commit and push the code with output given 
+second time pull the code to local check the output
